@@ -1,5 +1,5 @@
 export default {
-  mongoURI: "mongodb://localhost:27017/darrel-token-game",
+  mongoURI: "mongodb+srv://walter:nEObatlD6OcCVGaF@walter.iiya7fr.mongodb.net/darrel-token-game",
   jwtSecret: "kut10developers",
   githubToken: "<yoursecrectaccesstoken>",
 };
